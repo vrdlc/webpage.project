@@ -24,3 +24,17 @@ em {
   color: red;
   line-height: 30p
 }
+
+h2.important {
+  font-family: fantasy;
+  text-align: center;
+}
+
+.best{
+  color: #66ff66;
+  font-size: 100px;
+}
+
+.important {
+  color: green;
+}

@@ -14,11 +14,11 @@
         <li>String toy</li>
         <li>Hands and feet</li>
       </ul>
-    <h2>His favorite food in order</h2>
+    <h2 class="important">His favorite food in order</h2>
       <ol>
         <li>Dry food</li>
           <img src="http://lorempixel.com/400/200/" alt="Here is dry food">
-        <li>Grass</li>
+        <li class="important">Grass</li>
           <img src="http://lorempixel.com/400/200/" alt "This is grass">
       </ol>
 
@@ -30,7 +30,9 @@
         <li>Scratching and biting</li>
       </ul>
 
-<p>
+<h3 class="important">Hi</h3>
+
+<p class="best">
   Today my cat ate his <em>second</em> favorite food, grass. He then came inside and <strong>threw up on the carpet</strong> before I could move him to the wood floor.
 </p>
   </body>
